@@ -16,9 +16,10 @@
 ## 📚 Education:
 - Bachelor of Science in Statistics with a Data Science concentration, St. Cloud State University (expected graduation: Spring 2024)
 
-🌱 I'm always eager to learn and explore new areas in data science. Currently, I'm focusing on deepening my understanding of machine learning algorithms and cloud-based data analysis tools.
+## 🌱 Reach Out!
+I'm always eager to learn and explore new areas in data science. Currently, I'm focusing on deepening my understanding of machine learning algorithms and cloud-based data analysis tools.
 
-📫 You can connect with me on LinkedIn www.linkedin.com/in/avilendrer. I'm open to exciting job opportunities, collaborations, or discussing projects related to data analysis and statistical modeling.
+You can connect with me on LinkedIn: www.linkedin.com/in/avilendrer. I'm open to exciting job opportunities, collaborations, or discussing projects related to data analysis and statistical modeling.
 
 Let's unlock the potential of data together and make an impact!
 
